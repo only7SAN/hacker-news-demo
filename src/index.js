@@ -1,17 +1,35 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+} from 'react-router-dom';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+// 全局 css
+import 'normalize.css';
+import './index.css';
+
+import Layout from './page/layout';
+import List from './page/list';
+import Item from './page/item';
+import Reply from './page/reply';
+
+const Wrapper = (props) => (
+  <Layout>
+    <Switch>
+      <Route path="/home" component={List} />
+      <Route path="/item" component={Item} />
+      <Route path="/reply" component={Reply} />
+      <Route path="/" component={List} />
+    </Switch>
+  </Layout>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
+ReactDOM.render(
+  <Router>
+    <Route path="/" component={Wrapper} />
+  </Router>,
+  document.getElementById('root')
+);

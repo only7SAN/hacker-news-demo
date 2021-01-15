@@ -1,0 +1,19 @@
+.reply-container{
+  margin-top: 15px;
+}
+
+.reply-title{
+  color: gray;
+}
+
+.reply-textarea{
+  margin: 5px 0;
+}
+
+.reply-btn{
+  margin-top: 5px;
+}
+
+.reply-content{
+  margin-top: 5px;
+}

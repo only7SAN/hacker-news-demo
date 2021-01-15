@@ -1,0 +1,35 @@
+.detail-top{
+  margin-top: 10px;
+}
+
+.detail-top * {
+  margin-bottom: 10px;
+}
+
+.comment-child{
+  padding-left: 40px;
+}
+
+.comment-child-hide{
+  display: none;
+}
+
+.comment-title{
+  margin-top: 15px;
+  margin-bottom: 5px;
+  display: flex;
+  color: gray;
+}
+
+.comment-change{
+  cursor: pointer;
+}
+
+.comment-content{
+  margin-bottom: 5px;
+}
+
+.comment-reply-btn{
+  text-decoration: underline;
+  cursor: pointer;
+}

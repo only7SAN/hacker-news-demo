@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e001514-97a3-4d3b-893e-80d986271bf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/item/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="52" column="4" lean-forward="true" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/page/list/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/list/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/reply/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/reply/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/item/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tool/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="44" column="3" lean-forward="true" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/item/comment-item/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/api/api.js" />
+        <option value="$PROJECT_DIR$/src/page/item/comment-tree/index.js" />
+        <option value="$PROJECT_DIR$/src/page/item/comment-item/style.css" />
+        <option value="$PROJECT_DIR$/src/tool/tool.js" />
+        <option value="$PROJECT_DIR$/src/page/layout/index.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/page/layout/style.css" />
+        <option value="$PROJECT_DIR$/src/api/index.js" />
+        <option value="$PROJECT_DIR$/src/tool/index.js" />
+        <option value="$PROJECT_DIR$/src/page/reply/style.css" />
+        <option value="$PROJECT_DIR$/src/page/reply/index.js" />
+        <option value="$PROJECT_DIR$/src/page/list/index.js" />
+        <option value="$PROJECT_DIR$/src/page/list/style.css" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/page/item/style.css" />
+        <option value="$PROJECT_DIR$/src/page/item/comment-item/index.js" />
+        <option value="$PROJECT_DIR$/src/page/item/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="comment-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="reply" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hacker-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hacker-news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="configurable.stylesheets" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/page/reply" />
+      <recent name="$PROJECT_DIR$/src/page" />
+      <recent name="$PROJECT_DIR$/src/page/item" />
+      <recent name="$PROJECT_DIR$/src/page/list" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e001514-97a3-4d3b-893e-80d986271bf5" name="Default Changelist" comment="" />
+      <created>1610687025558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610687025558</updated>
+      <workItem from="1610687026958" duration="13386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13386000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.18181819" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reportWebVitals.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/item/comment-tree/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="14898" column="4" selection-start-line="14898" selection-start-column="4" selection-end-line="14898" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/item/comment-item/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/layout/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/layout/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/reply/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/list/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="44" column="3" lean-forward="true" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/item/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/item/comment-item/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/item/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="52" column="4" lean-forward="true" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/reply/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/list/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

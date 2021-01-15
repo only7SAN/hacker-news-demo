@@ -1,0 +1,14 @@
+.layout-container{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.layout-header{
+  padding: 0 10px;
+  height: 60px;
+  line-height: 60px;
+  background: #ffa541;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+}
